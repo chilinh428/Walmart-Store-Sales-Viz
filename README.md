@@ -16,8 +16,8 @@ This dataset was obtained from [Walmart Dataset (Retail)](https://www.kaggle.com
 | date                    | Week of sales                          |
 | weekly_sales            | Weekly sales                           |
 | holiday_flag            | 1 - Holiday week, 0 - Non-holiday week |               
-| temperature             | Gender of the customer making purchase |
-| fuel_price              | Product line of the product solf       |  
+| temperature             | Temperature                            |
+| fuel_price              | Fuel price                             |  
 | cpi                     | Prevailing consumer price index        |
 | unemployment            | Prevailing unemployment rate           |
 
