@@ -4,7 +4,7 @@ Explore, analyze, and visualize data with Tableau
 
 Link to my dashboard: [Walmart Sales Analysis Dashboard](https://public.tableau.com/app/profile/chi.nguyen6580/viz/WalmartSalesAnalysis_17102578635860/Dashboard1)
 
-![Walmart Sales Dashboard](https://github.com/chilinh428/Walmart-Store-Sales-Viz/assets/165115957/2ff4fea4-8d27-4c8f-8354-d22d497cc043)
+![Walmart Sales Dashboard](https://github.com/chilinh428/Walmart-Store-Sales-Viz/assets/165115957/779dcc20-6745-4486-a429-227462dc2579)
 
 ## About Dataset
 
@@ -48,7 +48,12 @@ This dataset was obtained from [Walmart Dataset (Retail)](https://www.kaggle.com
 
 - January sales are significantly less than other months. This is the result of November and December high sales. After two high sales month, people prefer to pay less on January.
 
-<img width="930" alt="Screenshot 2024-03-31 at 21 55 03" src="https://github.com/chilinh428/Walmart-Store-Sales-Viz/assets/165115957/e154a504-119c-47c7-8471-62d40582d71f">
+<img width="1066" alt="Screenshot 2024-04-01 at 10 41 40" src="https://github.com/chilinh428/Walmart-Store-Sales-Viz/assets/165115957/a7bdff16-868f-4971-b353-751570421c9c">
 
-<img width="889" alt="Screenshot 2024-03-31 at 21 57 17" src="https://github.com/chilinh428/Walmart-Store-Sales-Viz/assets/165115957/ed483f71-4318-4463-b44c-bbf60be4378f">
+- Create sales forecast for the next 15 months with 95% prediction intervals.
+
+<img width="1062" alt="Screenshot 2024-04-01 at 11 15 44" src="https://github.com/chilinh428/Walmart-Store-Sales-Viz/assets/165115957/c8db90fb-edfe-4bf4-b241-e1676fadb483">
+
+- Linear trend models are computed for `Temperature`, `Unemployment`, `CPI` and `Fuel Price` given `Weekly Sales`. 3 of them are significant at p < 0,0001.
+
 
